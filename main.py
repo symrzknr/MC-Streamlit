@@ -10,3 +10,6 @@ st.image(image1)
 st.caption("Vista áerea del barrio")
 st.image(image2)
 st.caption("Manifestación 2024")
+
+st.subheader("y de postre...")
+st.video("https://www.youtube.com/watch?v=FMpXuWNG9ng")
